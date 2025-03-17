@@ -1,0 +1,6 @@
+<script>start("c:\\Users\\MARYEM DAWOOD\\Downloads\\Test6\\static-server\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("node_modules","node_modules",1,0,"0 B",1742244771,"3/17/25, 10:52:51 PM");</script>
+<script>addRow("package-lock.json","package-lock.json",0,29552,"28.9 kB",1742244771,"3/17/25, 10:52:51 PM");</script>
+<script>addRow("package.json","package.json",0,277,"277 B",1742244771,"3/17/25, 10:52:51 PM");</script>
+<script>addRow("server.js","server.js",0,340,"340 B",1742244871,"3/17/25, 10:54:31 PM");</script>
